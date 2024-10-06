@@ -1,1 +1,1 @@
-# DreamMaster
+# 基于QT的简单记事本
